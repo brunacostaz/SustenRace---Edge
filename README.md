@@ -85,7 +85,7 @@ O projeto é composto por dois principais componentes:
 
 ## 🖼️ Foto do projeto
 
- <img src="imagem.img"/>
+ <img src="projeto_edge.png"/>
 
 ## 📞 Contato
 Para mais informações ou dúvidas, entre em contato:
