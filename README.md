@@ -89,7 +89,7 @@ O projeto é composto por dois principais componentes:
 
 ## ⌚ Protótipo do projeto
 
-<img src="prototipo_edge.png"/>
+<img src="prototipo_edge.jpeg"/>
 
 ## 📞 Contato
 Para mais informações ou dúvidas, entre em contato:
